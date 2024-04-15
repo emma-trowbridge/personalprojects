@@ -1,1 +1,1 @@
-jojo is a beginner website I created as a personal project to familirize myself with HTML, CSS, and Javascript. I'm currently not finished, I've put in on the backburner to learn other coding languages.
+jojo is a beginner website I created as a personal project to familiarize myself with HTML, CSS, and Javascript. I'm currently not finished, I've put in on the back burner to learn other coding languages. Index.html is the homepage and there are clickable links to go to other code.
