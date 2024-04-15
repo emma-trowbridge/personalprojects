@@ -1,0 +1,41 @@
+body, html {
+    height: 100%;
+    background-color: plum;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+h1 {
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+p {
+    text-align: right;
+    position: absolute;
+    top: 60%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.home-page a {
+    text-align: right;
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
