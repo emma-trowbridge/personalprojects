@@ -12,5 +12,5 @@ function checkForBear(filePath) {
 }
 
 //my txt file
-const filePath = 'C:\Users\emmat\OneDrive\Desktop\CodeProjects\MSU-bears.txt';
+const filePath = 'MSU-bears.txt';
 checkForBear(filePath);
